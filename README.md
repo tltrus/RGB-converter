@@ -1,5 +1,5 @@
 # RGB-converter
-RGB converter software
+RGB converter
 
 Provide to find the color by changing numbers
 
